@@ -90,7 +90,6 @@
   <h2 id="contact">Contact</h2>
   <p>If you have any questions or suggestions, feel free to reach out to me:</p>
   <ul>
-    <li>Email: <a href="mailto:abdulrahman.mo.aziz@example.com">abdelrahman@example.com</a></li>
     <li>GitHub: <a href="https://github.com/Abdelrahmanzezo">Abdelrahmanzezo</a></li>
   </ul>
   <p>Thank you for visiting my repository!</p>
