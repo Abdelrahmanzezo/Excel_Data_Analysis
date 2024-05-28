@@ -15,7 +15,6 @@
     <li><a href="#installation-and-setup">Installation and Setup</a></li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
   </ul>
 
@@ -83,9 +82,6 @@
     <li>Commit your changes and push the branch to your fork.</li>
     <li>Create a pull request with a detailed description of your changes.</li>
   </ol>
-
-  <h2 id="license">License</h2>
-  <p>This repository is licensed under the MIT License. See the <a href="LICENSE">LICENSE</a> file for more information.</p>
 
   <h2 id="contact">Contact</h2>
   <p>If you have any questions or suggestions, feel free to reach out to me:</p>
